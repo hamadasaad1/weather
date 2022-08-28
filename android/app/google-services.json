@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "724114304705",
+    "firebase_url": "https://e-shoping-dfae9.firebaseio.com",
+    "project_id": "e-shoping-dfae9",
+    "storage_bucket": "e-shoping-dfae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724114304705:android:42bfeb2a7ff9bf114bee40",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724114304705-pc98gtm8vcsfrrnehf1761ae8sin26jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIlS5MUsVL68ePyNq2Cy6HVM0JZKEJpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724114304705-ndnpsva66ljsg096qc0sefpjb43l6gd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724114304705:android:31af4831b336f9fb4bee40",
+        "android_client_info": {
+          "package_name": "com.ibnsaad.e_eshtery.eshtery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724114304705-tl2j4n5r9436b7oni0sm0298gbuom54b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibnsaad.e_eshtery.eshtery",
+            "certificate_hash": "54bbd41f1df14dbf1c4e9fa7f15cb7309344f557"
+          }
+        },
+        {
+          "client_id": "724114304705-pc98gtm8vcsfrrnehf1761ae8sin26jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIlS5MUsVL68ePyNq2Cy6HVM0JZKEJpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724114304705-ndnpsva66ljsg096qc0sefpjb43l6gd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724114304705:android:b5e982a2b690836c",
+        "android_client_info": {
+          "package_name": "com.ibnsaad.e_shoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724114304705-8n6s6ifa9v0410oo1bnt84hd3ar2tj43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibnsaad.e_shoping",
+            "certificate_hash": "6c1aa8e41648c9d6f314e32c5127143548770792"
+          }
+        },
+        {
+          "client_id": "724114304705-pc98gtm8vcsfrrnehf1761ae8sin26jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIlS5MUsVL68ePyNq2Cy6HVM0JZKEJpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724114304705-ndnpsva66ljsg096qc0sefpjb43l6gd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

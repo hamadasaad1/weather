@@ -1,0 +1,1 @@
+enum WeatherType { snow, cold, sunny, night }
